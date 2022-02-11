@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DZ_SkillBox_5.5_Method/1.0.0": {
+        "runtime": {
+          "DZ_SkillBox_5.5_Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ_SkillBox_5.5_Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

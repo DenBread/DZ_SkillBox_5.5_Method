@@ -1,0 +1,15 @@
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\bin\Debug\net6.0\DZ_SkillBox_5.5_Method.exe
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\bin\Debug\net6.0\DZ_SkillBox_5.5_Method.deps.json
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\bin\Debug\net6.0\DZ_SkillBox_5.5_Method.runtimeconfig.json
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\bin\Debug\net6.0\DZ_SkillBox_5.5_Method.dll
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\bin\Debug\net6.0\ref\DZ_SkillBox_5.5_Method.dll
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\bin\Debug\net6.0\DZ_SkillBox_5.5_Method.pdb
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.AssemblyInfoInputs.cache
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.AssemblyInfo.cs
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.dll
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\ref\DZ_SkillBox_5.5_Method.dll
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.pdb
+C:\Users\Den\source\repos\DZ_SkillBox_5.5_Method\DZ_SkillBox_5.5_Method\obj\Debug\net6.0\DZ_SkillBox_5.5_Method.genruntimeconfig.cache
